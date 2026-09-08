@@ -1,4 +1,0 @@
-This is a Brave Creators publisher verification file.
-
-Domain: changoliver.github.io
-Token: 426d8fb96b8529df3a96b4881251c7f8e3b008d0b1fd4dab0a2a7c5fa48e34f4

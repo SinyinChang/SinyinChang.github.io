@@ -1,3 +1,3 @@
-Personal Website of Yuanhaur Chang (Oliver)  
+Personal Website of Sinyin Chang
 
-[changoliver.github.io](https://changoliver.github.io)
+[sinyinchang.github.io](https://SinyinChang.github.io)

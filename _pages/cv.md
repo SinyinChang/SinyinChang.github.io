@@ -1,35 +1,42 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 ---
 
-<!-- {% include base_path %} -->
-
-[PDF](http://changoliver.github.io/files/YuanhaurChang_CV.pdf)
+[PDF](/files/Sinyin_Chang_Resume.pdf)
 
 Education
 ======
-* B.S. in Computer Science and Information Engineering, National Taiwan University, 2021
-* Ph.D in Computer Science and Engineering, Washington University in St. Louis, 2026 (expected)
+* M.S.E. in Computer Science, Johns Hopkins University, Expected May 2027
+* B.S. in Computer Science and Information Engineering, National Taiwan University, Jun 2025
 
-Honors
-=====
-**Award**
-* Symposium on Usable Privacy and Security (SOUPS) Student Grant, 2025
-* Taiwan Ministry of Education (MOE) Fellowship, 2021
-* WashU Dean's International Award, 2021
-
-Research Experiences
+Experience
 ======
-**Undergraduate Research Assistant**
-  * Medical Informatics Lab: RNA sequencing pipeline development
-  * Stem Cell and Regenerative Medicine Lab: Single-cell RNA sequencing research
+**Math Tutor**, Johns Hopkins University, Baltimore, MD, Jan 2026 – Present
+* Tutored students in grades 3–7 in mathematics at Henderson-Hopkins, providing individualized guidance and adapting explanations to different learning levels and needs.
 
-**Research Assistant**
-  * Computer Security & Privacy Lab, Washington University in St. Louis
-  * PhD candidate in Computer Science & Engineering
+**Research Intern**, Washington University in St. Louis, St. Louis, MO, Jun 2024 – Aug 2024
+* Led a first-author project developing an adaptive input sanitization framework for legacy medical systems using extended Berkeley Packet Filter (eBPF), enabling runtime deployment of kernel-level defenses without service downtime while achieving <19 ms patch loading time.
+* Developed an automated lighting-control system for the Open Platform for Cyber-Physical Systems (OPCPS) by implementing a custom network-based interface connecting software with physical lighting hardware.
+
+**Research Intern**, National Taiwan University, Taipei, Taiwan, Jan 2024 – Jun 2024
+* Collaborated with PhD students on gait-analysis research, evaluating monocular depth-estimation models and integrating open-source computer-vision pipelines to explore 3D depth recovery from 2D video.
+
+Projects
+======
+**Modeling Social Pressure in Multi-Agent LLM Environments**, May 2026
+* Built a Python-based multi-agent LLM simulation and evaluation framework using model APIs and prompt engineering to analyze cooperative behavior across 5 LLM families and 3 experimental conditions.
+
+**CompareAI: User-Centered AI Tool Comparison Platform**, May 2026
+* Designed an AI tool comparison platform in Figma through contextual inquiry, participatory design, and usability testing; usability tasks, including tool comparison, achieved 75–100% completion in ~20 seconds.
+
+**I-CALM: Incentivizing Confidence-Aware Abstention for LLM Hallucination Mitigation**, Mar 2026
+* Engineered and evaluated a confidence-aware LLM framework for reducing unreliable answers using model APIs and prompt engineering; tested 5 LLM families across 3 QA datasets, reducing false-answer rate from 52.3% to 34.2% on GPT-5 mini/PopQA.
+
+**Full-Stack Meeting Coordination Platform**, Jun 2024
+* Implemented frontend and backend components for a meeting coordination platform using Python, JavaScript, HTML, CSS, and MongoDB, contributing to an integrated system that streamlined meeting coordination.
 
 Publications
 ======
@@ -37,67 +44,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-**CVE**
-* Slic3r: [CVE-2021-44961](https://nvd.nist.gov/vuln/detail/CVE-2021-44961), [CVE-2021-44962](https://nvd.nist.gov/vuln/detail/CVE-2021-44962) (Base Score: 5.5)
-* ZBar: [CVE-2023-40889](https://nvd.nist.gov/vuln/detail/CVE-2023-40889), [CVE 2023-40890](https://nvd.nist.gov/vuln/detail/CVE-2023-40890) (Base Score: 9.8)
-
-Teaching
+Technical Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Programming:** Python, C/C++, JavaScript, SQL, HTML, CSS
+* **Technologies & Tools:** React, MongoDB, Git, Docker, Figma
+* **AI/ML:** LLMs, Prompt Engineering, Multi-Agent Systems, LLM APIs, Agent/Model Evaluation
 
-Service and Leadership
+Volunteer
 ======
-**Conference Organization**
-* Web Chair, 10th ACM Workshop on Moving Target Defense (MTD’23)
-* US-Taiwan Workshop on Cybersecurity 2025
+* Designer, Graduate Association, NTU
+* Student Volunteer, Office of International Affairs, NTU
+* Student Volunteer, Parker Jewish Institute for Health Care and Rehabilitation, NY
+* International Ambassador, HSNU
 
-**Technical Program Committee**
-* ACM Conference on Computer and Communications Security (CCS) AEC: 2025
-* USENIX Security Symposium AEC: 2024, 2025
-* Network and Distributed System Security Symposium (NDSS) AEC: 2026
-* International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS): 2025
-* IEEE Conference on Communications and Network Security (CNS): 2026
-* IEEE Transactions on Information Forensics & Security (TIFS): 2024, 2025
-* ACM Transactions on Cyber-Physical Systems (TCPS): 2025
-* IEEE/ACM Transactions on Networking (TNET): 2025
-
-**External Conference Review**
-* IEEE Symposium on Security and Privacy (Oakland)
-* ACM Conference on Computer and Communications Security (CCS)
-* ACM ASIA Conference on Computer and Communications Security (ASIACCS)
-* Annual Computer Security Applications Conference (ACSAC)
-* IEEE International Conference on Computer Communications (INFOCOM)
-* ISOC The Network and Distributed System Security Symposium (NDSS)
-* IEEE Conference on Communications and Network Security (CNS)
-* IEEE European Symposium of Security and Privacy (EuroS&P)
-* Design Automation Conference (DAC)
-* IEEE Real-Time Systems Symposium (RTSS)
-
-**Student Group**
-* Vice President/Treasurer, Taiwanese Graduate Student Association (TGSA)
-
-**Volunteering**
-* Student Volunteer, Office of International Affairs
-* Student Volunteer, College of EECS
-
-
-<!-- Programming and Software Experience
+Languages
 ======
-* C/C++, Python, R, Java
-* Web Development: React.js, Node.js
-* Android app development
-* Computer-aided design
-* Animation & Video editing
- -->
-
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-
-
-  
-
+* Mandarin, English, Spanish
