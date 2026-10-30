@@ -14,6 +14,9 @@ Education
 
 Experience
 ======
+**AI Research Intern**, Miraivant Advisory, Rockville, MD, Oct 2026 – Present
+* Conducting technical research on healthcare referral automation platforms to inform the design and development of PatientFlow AI, an AI-powered platform for streamlining patient referral workflows and decision support.
+
 **Math Tutor**, Johns Hopkins University, Baltimore, MD, Jan 2026 – Present
 * Tutored students in grades 3–7 in mathematics at Henderson-Hopkins, providing individualized guidance and adapting explanations to different learning levels and needs.
 
